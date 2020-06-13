@@ -1,6 +1,6 @@
 "# Google-News-Kt" 
 
-A smaple project using News API. It fetches data from News API, saves them to the SQLite database. And shows data from SQLite database. MVVM has been used as architecture. 
+A sample project using News API. It fetches data from News API, saves them to the SQLite database. And shows data from the SQLite database. MVVM has been used as architecture.
 
 
 MVVM + Kotlin + SQLite + Room + Retrofit + Dagger 2 -> Google News App
