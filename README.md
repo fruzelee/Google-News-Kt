@@ -38,29 +38,7 @@ APK: https://drive.google.com/file/d/1THzjTx6nDSMg0CYZjLFhr2qYFks4keDF/view?usp=
 
 App Demo Video: https://drive.google.com/file/d/165nSAbyYcpm_16tODmtVHcMIxVNbtsOP/view?usp=sharing
 
-Screenshots: 
-
-https://drive.google.com/file/d/1Cd2NXkivRoAAYaE86qA6-P0c0Zpqpwuu/view?usp=sharing, 
-
-https://drive.google.com/file/d/1GBLOPLthjF0p6SScXSWL9MydCrDJFlfc/view?usp=sharing, 
-
-https://drive.google.com/file/d/1MODsQIl5PN65DKxRjzIbJjf3HGAMKPg_/view?usp=sharing, 
-
-https://drive.google.com/file/d/1RZtYP4sc4OqMqDTSVdH0QtKOlF9tUuT1/view?usp=sharing, 
-
-https://drive.google.com/file/d/1SCZD6ygYdLFI7NWAyOguunBgPcscNoeQ/view?usp=sharing, 
-
-https://drive.google.com/file/d/1TrVxiaSDaO66hdYuhZh6SfUCGcJU3MeO/view?usp=sharing, 
-
-https://drive.google.com/file/d/1XQL0k-HOT9Ub5MUgLh5oV33hH2BGpsiP/view?usp=sharing, 
-
-https://drive.google.com/file/d/1lhGFcfmx17xMfZ038xhi5PzQj2RBRepf/view?usp=sharing, 
-
-https://drive.google.com/file/d/1nlgkHz9raOHveEDrlemRnEPh4idOziqw/view?usp=sharing, 
-
-https://drive.google.com/file/d/1rHhcSoPY65WUYct34h_LInW-AHkbrANz/view?usp=sharing, 
-
-https://drive.google.com/file/d/1xmgwcC8oZpkTaL0NKJC9NewoZ3048lW2/view?usp=sharing
+Screenshots: https://drive.google.com/drive/folders/1liHlIMQ_6l1G9LXKqYQg0tUHuJVLorGt
 
 
 
